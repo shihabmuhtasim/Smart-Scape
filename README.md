@@ -8,8 +8,6 @@ Smart Scape is a smart home robotics model built using Arduino and other compone
 
 This autonomous smart home solution can be used in homes, offices, hotels, or any public space to enhance safety and convenience. Features such as automatic door opening and lighting can improve accessibility and energy efficiency, while safety measures like gas and fire detection are crucial for preventing accidents and saving lives.
 
-## Image
-![Snapchat-282876004~2](https://github.com/shihabmuhtasim/Smart-Scape/assets/92597456/c4df123c-d28e-458b-a87d-3f329c1f16bf)
 
 ## Demonstration Video
 
@@ -78,7 +76,8 @@ The `ultra_sonic()` function reads distance from the ultrasonic sensor using sou
 
 The `temp()` function reads temperature from the thermistor using analog signals and calculates temperature based on resistance values.
 
-
+## Image
+![Snapchat-282876004~2](https://github.com/shihabmuhtasim/Smart-Scape/assets/92597456/c4df123c-d28e-458b-a87d-3f329c1f16bf)
 
 
 
