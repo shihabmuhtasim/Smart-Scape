@@ -102,7 +102,7 @@ void ultra_sonic() {
   distance = duration * 0.034 / 2; //sound speed .034 m.micro sec
   Serial.print("Distance: ");
   Serial.print(distance);
-  Serial.print("meter ");
+  Serial.print("----");
   
 }
 
