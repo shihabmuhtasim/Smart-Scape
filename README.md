@@ -13,7 +13,8 @@ This autonomous smart home solution can be used in homes, offices, hotels, or an
 
 ## Demonstration Video
 
-[Watch the demonstration video](https://youtu.be/rzl3d3x_Jic?feature=shared)
+[![Smart Scape Demo](https://img.youtube.com/vi/rzl3d3x_Jic/0.jpg)](https://www.youtube.com/watch?v=rzl3d3x_Jic)
+
 
 ## GitHub Link
 
