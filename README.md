@@ -14,8 +14,11 @@ This autonomous smart home solution can be used in homes, offices, hotels, or an
 [![Smart Scape Demo](https://img.youtube.com/vi/rzl3d3x_Jic/0.jpg)](https://www.youtube.com/watch?v=rzl3d3x_Jic)
 
 
-## GitHub Link
+## Project Report
 
+[project report.pdf](https://github.com/shihabmuhtasim/Smart-Scape/files/15421342/project.report.pdf)
+
+## GitHub Link
 [GitHub Repository](https://github.com/shihabmuhtasim/Smart-Scape)
 
 ## Components
