@@ -3,6 +3,7 @@
 ## Introduction & Objective
 
 Smart Scape is a smart home robotics model built using Arduino and other components to provide both user accessibility and autonomous safety measures. The primary objective is to design and implement a home automation system to enhance convenience and safety. Automatic features include door opening upon a person’s arrival and room lighting based on darkness levels, while safety features include fire detection and flammable gas detection.
+![DALL·E 2024-11-10 12 10 41 - A smart home automation system built with Arduino components in a home setting  Display an Arduino Uno board connected to various sensors and actuator](https://github.com/user-attachments/assets/b6d676e6-8d8e-47d3-b033-0553e3b7cd6f)
 
 ## Real-world Need
 
